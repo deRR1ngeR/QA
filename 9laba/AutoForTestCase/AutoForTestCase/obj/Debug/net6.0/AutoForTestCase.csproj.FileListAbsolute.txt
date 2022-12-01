@@ -3,6 +3,13 @@ D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\obj\D
 D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\obj\Debug\net6.0\AutoForTestCase.AssemblyInfoInputs.cache
 D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\obj\Debug\net6.0\AutoForTestCase.AssemblyInfo.cs
 D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\obj\Debug\net6.0\AutoForTestCase.csproj.CoreCompileInputs.cache
+D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\bin\Debug\net6.0\AutoForTestCase.deps.json
+D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\bin\Debug\net6.0\AutoForTestCase.dll
+D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\bin\Debug\net6.0\AutoForTestCase.pdb
+D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\obj\Debug\net6.0\AutoForTestCase.dll
+D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\obj\Debug\net6.0\refint\AutoForTestCase.dll
+D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\obj\Debug\net6.0\AutoForTestCase.pdb
+D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\obj\Debug\net6.0\ref\AutoForTestCase.dll
 D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\bin\Debug\net6.0\testhost.dll
 D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\bin\Debug\net6.0\testhost.exe
 D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -15,10 +22,7 @@ D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\bin\D
 D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
 D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
 D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
-D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\bin\Debug\net6.0\AutoForTestCase.deps.json
 D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\bin\Debug\net6.0\AutoForTestCase.runtimeconfig.json
-D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\bin\Debug\net6.0\AutoForTestCase.dll
-D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\bin\Debug\net6.0\AutoForTestCase.pdb
 D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
 D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -96,8 +100,4 @@ D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\bin\D
 D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\obj\Debug\net6.0\AutoForTestCase.csproj.CopyComplete
-D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\obj\Debug\net6.0\AutoForTestCase.dll
-D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\obj\Debug\net6.0\refint\AutoForTestCase.dll
-D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\obj\Debug\net6.0\AutoForTestCase.pdb
 D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\obj\Debug\net6.0\AutoForTestCase.genruntimeconfig.cache
-D:\Мои проекты\5 сем\QA\9laba\AutoForTestCase\AutoForTestCase\obj\Debug\net6.0\ref\AutoForTestCase.dll
